@@ -9,3 +9,18 @@ rm  -elimina archivos o carpetas
 rmdir  -para eliminar un directorio/carpeta
 cd ..  -para volver atras
 mv NOMBRE DEL ARCHIVO ../NOMBRE DEL ARHIVO -> MOVER UN ARCHIVO PARA LA CARPETA PADRE
+
+
+git init: para inicializar
+
+git add . : para agregar todos los archivos
+
+git commit -m "Mensaje"
+
+git remote add origin url-de-github
+
+git push -u origin master
+
+CAMBIO
+
+paso 2, 3, 5
