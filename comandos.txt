@@ -1,0 +1,11 @@
+cd  -navegar a traves de las carpetas
+ls  -nos permite que archivo y carpetas se encuentran en mi locacion actual
+ls -l  -nos dice que archivos se encuentran en mi locacion actual pero mas a fondo con mas datos
+pwd  -nos dice en que carpeta estamos
+mkdir  -me crea un nuevo directorio/carpeta
+touch  -me crea un archivo
+mv  -para cambiar el nombre de un archivo o mover arvhivos de lugar
+rm  -elimina archivos o carpetas
+rmdir  -para eliminar un directorio/carpeta
+cd ..  -para volver atras
+mv NOMBRE DEL ARCHIVO ../NOMBRE DEL ARHIVO -> MOVER UN ARCHIVO PARA LA CARPETA PADRE
